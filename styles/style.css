@@ -1,5 +1,5 @@
 html {
-    font-family: placeholder;
+    font-family: NOTO SANS ZH, sans-serif;
 }
 
 body {
@@ -21,6 +21,10 @@ h2 {
     padding: 20px 0;
     color: black;
     text-shadow: 3px 3px 1px #5D6D7E;
+}
+
+#pop {
+    font-size: 30px;
 }
 
 img {
